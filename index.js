@@ -1,4 +1,4 @@
-import MissionCommander from './app/missionCommander.js';
+const MissionCommander = require('./app/missionCommander')
 const juan = new MissionCommander("Juan")
 const william = new MissionCommander("Will")
 const owen = new MissionCommander("El Nene")

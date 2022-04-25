@@ -3,4 +3,4 @@ class MissionCommander {
         this.name = name
     }
 }
-export default MissionCommander
+module.exports = MissionCommander
